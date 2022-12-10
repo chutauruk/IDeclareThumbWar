@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main {
+    width: 1800px; //depending on how wide you want the table window
+    min-height: 615px;  //same as width
+    margin: 0 auto; //to center the content on your screen
+    display: flex;
+    justify-content: space-between;
+}
+
